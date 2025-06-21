@@ -1,0 +1,6 @@
+pandas
+streamlit
+nbformat
+plotly
+openpyxl
+sqlite
